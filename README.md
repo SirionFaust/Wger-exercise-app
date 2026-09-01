@@ -1,6 +1,6 @@
 # Exercise Search Directory
 
-[Live Demo](https://sirionfaust.github.io/wger-exercise-app/)
+[Live]( https://sirionfaust.github.io/Wger-exercise-app/)
 
 Overview
 
